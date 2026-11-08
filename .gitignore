@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.log
+
+# Local camera credentials and captures
+okam_config.json
+config.json
+*.jsonl
+*.jpg
+*.jpeg
+*.png
+*.h264
+*.mp4
+*.ab
+*.pcap
+*.pcapng
+
+# Android/build artifacts (not part of this repo)
+build/
+*.apk
+*.aab
+*.keystore
+*.jks
+jniLibs/
+lib/
+obj/
+
+# IDE/OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db

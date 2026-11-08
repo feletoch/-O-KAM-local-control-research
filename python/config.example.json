@@ -1,0 +1,9 @@
+{
+  "vuid": "YOUR_CAMERA_VUID",
+  "uid": "",
+  "service": "",
+  "password": "YOUR_CAMERA_PASSWORD",
+  "bind": "127.0.0.1",
+  "port": 8098,
+  "token": ""
+}
